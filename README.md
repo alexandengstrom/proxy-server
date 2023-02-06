@@ -50,6 +50,9 @@ When the proxy is configured to match your requirements, call the method run to 
 proxy.run()
 ```
 
+### 4. Unit Tests
+Run the file "unit_test.py" to run all existing unit tests.
+
 ## Examples
 This is how you could configure the proxy server to do the following thing:
 - Replace all jpg and png-images to a trollface-picture.
